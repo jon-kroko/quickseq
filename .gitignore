@@ -1,0 +1,14 @@
+# Gradle
+build/
+.gradle/
+
+# IDEA
+out/
+.idea/
+*.iml
+
+java_pid*
+
+*.DS_Store
+
+quickseq-plugin/sequence-diagrams/
