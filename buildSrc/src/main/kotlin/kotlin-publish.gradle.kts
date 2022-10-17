@@ -8,7 +8,7 @@ plugins {
 
 val projectName = "QuickSeq"
 val projectDescription = "QuickSeq"
-val projectUrl = "github.com/kira-we/quickseq"
+val projectUrl = "github.com/jon-kroko/quickseq"
 
 val dokkaJar by tasks.creating(Jar::class) {
   group = DOCUMENTATION_GROUP
@@ -70,8 +70,8 @@ publishing {
             }
             developers {
                 developer {
-                    name.set("Brian Norman")
-                    url.set("https://github.com/bnorm")
+                    name.set("Kira Weinlein")
+                    url.set("https://github.com/jon-kroko")
                 }
             }
         }
